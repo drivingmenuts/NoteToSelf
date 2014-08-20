@@ -1,0 +1,4 @@
+NoteToSelf
+==========
+
+cli-based notekeeping
