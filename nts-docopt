@@ -1,0 +1,28 @@
+#!/usr/bin/env python3
+import docopt
+import sqlite3
+import os
+
+
+def add_txt(text):
+    pass
+
+
+def add_cat(category, text):
+    pass
+
+
+def rm_item(nbr):
+    pass
+
+
+def init_db():
+    pass
+
+
+def get_cur():
+    pass
+
+
+if __name__ == "__main__":
+    pass
